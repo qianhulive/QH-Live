@@ -1,1 +1,1 @@
-# https://QH.live
+# https://qh.live
