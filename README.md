@@ -1,5 +1,5 @@
 # 墙外永久
-# QH.live
+# https://QH.live
 # 官网地址
 # https://qh1.live
 # https://qh2.live
